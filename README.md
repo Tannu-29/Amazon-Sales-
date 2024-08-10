@@ -20,7 +20,9 @@ attributes. Do your own research and come up with your findings.
 
 ## Dashboard
 
-[Live link]("C:\Users\91972\Downloads\amazon project (1).pbix")
+
+
+("C:\Users\91972\Downloads\amazon project (1).pbix")
 
 
 ## Conclusion 
