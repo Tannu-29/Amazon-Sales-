@@ -25,6 +25,8 @@ attributes. Do your own research and come up with your findings.
 C:\Users\91972\Downloads\amazon project (1).pbix
 
 
+![Screenshot 2024-08-10 075040](https://github.com/user-attachments/assets/d0a51e80-2cb7-467c-891c-ed6ed6dc0f36)
+
 ## Conclusion 
 
 - In conclusion, the analysis of Amazon sale performance and profitability reveals several key insights. Sub-Saharan Africa generated the highest profit followed by Europe and Asia while North America yielded lowest profit.
